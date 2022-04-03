@@ -1,0 +1,41 @@
+test_001:
+  name: 打开浏览器
+  is_run: Y
+  operation: open_browser
+  object: chrome
+  value:
+  assert:
+
+test_002:
+  name: 访问网址
+  is_run: Y
+  operation: open_browser
+  object: chrome
+  value:
+  assert:
+
+test_003:
+  name: 等待时间
+  is_run: Y
+  operation: open_browser
+  object: chrome
+  value:
+  assert:
+
+test_004:
+  name: 点击输入框
+  is_run: Y
+  operation: open_browser
+  object: chrome
+  value:
+  assert:
+
+test_005:
+  name:
+  is_run: Y
+  operation: open_browser
+  object: chrome
+  value:
+  assert:
+
+  
